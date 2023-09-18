@@ -1,0 +1,3 @@
+O site tem a proposta de mostrar imagens aleatórias de cachorros, em tela, e a cada vez que o usuário clicar na imagem ela será trocada por outra imagem de cachorro.
+
+As imagens foram tiradas da API presente na url "https://dog.ceo/api/breeds/image/random Fetch!"
